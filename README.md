@@ -19,13 +19,13 @@ Report: ML Report
 
 
 Training Data:
-Linear_train.csv: For Linear Regresson
-Polynomial_train.csv: For Polynomial Regression
-Classification_train.zip: For Logistic Regression, KNN, Neural Network
-Kmean_dataset.csv: For Kmeans Clustering
+Linear_train.csv (For Linear Regresson)
+Polynomial_train.csv (For Polynomial Regression)
+Classification_train.zip (For Logistic Regression, KNN, Neural Network)
+Kmean_dataset.csv (For Kmeans Clustering)
 
 
 Testing Data:
-Linear_test.csv: For Linear Regresson
-Polynomial_test.csv: For Polynomial Regression
-Classification_test.csv: For Logistic Regression, KNN, Neural Network
+Linear_test.csv (For Linear Regresson)
+Polynomial_test.csv (For Polynomial Regression)
+Classification_test.csv (For Logistic Regression, KNN, Neural Network)
