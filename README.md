@@ -1,31 +1,32 @@
-Code:
-Linear_Regression.ipynb,
-Polynomial_Regression.ipynb,
-Logistic_Regression.ipynb,
-KNN.ipynb,
-Kmeans_Clustering.ipynb,
-Neural_Network.ipynb
+Foundational Machine Learning Algorithms Project
+A project focused on implementing core machine learning algorithms from scratch to gain a deep understanding of both supervised and unsupervised learning techniques. This hands-on approach demonstrates how foundational models operate without relying on pre-built libraries.
 
+Features
 
-Output Data:
-Linear_output.csv,
-Polynomial_output.csv,
-Logistic_output.csv,
-KNN_output.csv,
-NeuralNetwork_output.csv
+Supervised Learning Models:
+Linear Regression
+Polynomial Regression
+Logistic Regression
+K-Nearest Neighbors (KNN)
 
+Unsupervised Learning Model:
+K-Means Clustering
+Neural Networks:
 
-Report: ML Report
+Implemented a basic neural network from scratch to understand forward and backward propagation.
 
+Objective
+Develop an in-depth understanding of machine learning by manually implementing algorithms for prediction, classification, and clustering tasks.
+Gain experience in handling data preprocessing, feature scaling, and evaluation metrics.
 
-Training Data:
-Linear_train.csv (For Linear Regresson),
-Polynomial_train.csv (For Polynomial Regression),
-Classification_train.zip (For Logistic Regression, KNN, Neural Network),
-Kmean_dataset.csv (For Kmeans Clustering)
+Tools & Technologies
 
+Programming Language: Python
 
-Testing Data:
-Linear_test.csv (For Linear Regresson),
-Polynomial_test.csv (For Polynomial Regression),
-Classification_test.csv (For Logistic Regression, KNN, Neural Network)
+Libraries Used:
+NumPy: For numerical computations
+Pandas: For data manipulation and preprocessing
+Matplotlib: For data visualization
+
+Dataset
+The project used various datasets to test different models, including regression and classification datasets, and datasets suitable for clustering tasks. Data preprocessing steps included handling missing values, feature scaling, and normalization.
